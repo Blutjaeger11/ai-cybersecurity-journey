@@ -1,1 +1,1 @@
-Hello, Souvik! Your AI + Cybersecurity journey starts now.
+print("Hello, Souvik! Your AI + Cybersecurity journey starts now.")
